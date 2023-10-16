@@ -1,0 +1,17 @@
+﻿html,body {
+    font-family:Hanuman;
+    font-size:18px;
+}
+.kh-font-head{
+    font-family:Khmer OS Moul Pali;
+    font-size:20px;
+}
+.kh-font-normal{
+    font-family:Khmer OS Content;
+    font-size:14px;
+}
+.kh-center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
